@@ -1,3 +1,5 @@
+import React from "react";
+
 const Pay = () => {
   return (
     <div
@@ -6,7 +8,6 @@ const Pay = () => {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
-            backgroundColor: "black",
         }}
     >
         <button
